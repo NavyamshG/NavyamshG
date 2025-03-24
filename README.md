@@ -1,14 +1,27 @@
-# Hi there! 👋 I'm Navyamsh Gangavaram
+# Hi there! 👋 Myself Navyamsh Gangavaram
 
 Welcome to my GitHub profile! I am a passionate Data Scientist and Analyst with experience in data science, machine learning, and cloud technologies. I love solving complex problems and making data-driven decisions.
+
+**If you ask me why Data Science?**
+May 2018, “Dhoni finishes off in style, and Chennai lifts the trophy after seven years.” As a person
+who sees the world through the lens of numbers, I used simple calculations and understood that
+2011 was the last championship for Chennai super kings. The next day, newspapers were flooded
+with details such as runs scored, wickets and the number of catches logged across the season. This
+left many unanswered questions, and I trawled to know more about the magic behind such accurate
+statistics. My interest in Cricket also got me interested in its statistics. However, it was only when
+I came across ‘Data science’ that I hit the ultimate jackpot when I realized that what I had viewed
+as magic was indeed sorcery, the sorcery of Data scientists. As I kept exploring, I could see how
+‘Data Science’ have contributed significantly to creating, maintaining and utilizing
+data related across industries.
+
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Master's degree in Data Science and Analytics at Georgia State University
+- 🎓 **Education**: Master's in Data Science and Analytics at Georgia State University
 - 💻 **Work Experience**: Former Data Scientist at Eastman Chemicals Company 
-- 🔍 **Interests**: Machine Learning, Deep Learning, Generative AI, and Data Visualization
+- 🔍 **Interests**: Statistics, Machine Learning, Deep Learning, Data Visualization and Generative AI
 
 ---
 
