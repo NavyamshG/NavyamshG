@@ -9,7 +9,7 @@ who sees the world through the lens of numbers, I used simple calculations and u
 2011 was the last championship for Chennai super kings. The next day, newspapers were flooded
 with details such as runs scored, wickets and the number of catches logged across the season. This
 left many unanswered questions, and I trawled to know more about the magic behind such accurate
-statistics. My interest in Cricket also got me interested in its statistics. However, it was only when
+statistics. **My interest in Cricket also got me interested in its statistics.* However, it was only when
 I came across ‘Data science’ that I hit the ultimate jackpot when I realized that what I had viewed
 as magic was indeed sorcery, the sorcery of Data scientists. As I kept exploring, I could see how
 ‘Data Science’ have contributed significantly to creating, maintaining and utilizing
