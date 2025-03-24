@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I am a passionate Data Scientist and Analyst with experience in data science, machine learning, and cloud technologies. I love solving complex problems and making data-driven decisions.
 
 **If you ask me why Data Science?**
+
 May 2018, “Dhoni finishes off in style, and Chennai lifts the trophy after seven years.” As a person
 who sees the world through the lens of numbers, I used simple calculations and understood that
 2011 was the last championship for Chennai super kings. The next day, newspapers were flooded
