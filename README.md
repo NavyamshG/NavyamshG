@@ -13,9 +13,7 @@ with details such as runs scored, and wickets logged across the season. This
 left many unanswered questions, and I trawled to know more about the magic behind such accurate
 statistics. *My interest in Cricket also got me interested in its statistics.* However, it was only when
 I came across ‘Data science’ that I hit the ultimate jackpot when I realized that what I had viewed
-as magic was indeed sorcery, the sorcery of Data scientists. As I kept exploring, I could see how
-‘Data Science’ have contributed significantly to creating, maintaining and utilizing
-data related across industries.
+as magic was indeed sorcery, the sorcery of Data scientists. 
 
 </div>
 ---
